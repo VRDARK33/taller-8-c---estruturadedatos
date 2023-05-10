@@ -1,0 +1,7 @@
+{
+    "editor.fontFamily": "'Comic Mono',Consolas, 'Courier New', monospace",
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "editor.fontSize": 20
+}
